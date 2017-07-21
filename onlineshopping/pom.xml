@@ -14,6 +14,13 @@
 	</properties>
 
 	<dependencies>
+	
+	<!-- Link of the Backend Project -->
+	  <dependency>
+	      <groupId>com.om</groupId>
+	      <artifactId>shoppingbackend</artifactId>
+	      <version>0.0.1-SNAPSHOT</version>
+	  </dependency>
 
 		<!-- Java EE APT -->
 		<dependency>
